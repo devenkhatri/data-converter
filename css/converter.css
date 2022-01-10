@@ -15,7 +15,7 @@ Mr. Data Converter styles
 
 html {
 	font-family: Helvetica, Arial;
-	background: #141414 url('../images/background.png') no-repeat;
+	background-color: #1a1a29 ;
 }
 
 body {
@@ -114,15 +114,15 @@ p.dataHeaders{
 
 .textInputs {
   
-  background-color: #C9B7C7;
+  background-color: #b7bdc9;
   border: none;
-  color: #664D63;
+  color: #484664;
   font-family: monospace;
   font-size: 12px;
   height: 300px;
   line-height: 18px;
   padding: 10px;
-  text-shadow: #DED4DD 0px 1px 0px;
+  text-shadow: #d4d4de 0px 1px 0px;
   -webkit-box-shadow: #333 1px 1px 10px inset;
   -moz-box-shadow: #333 1px 1px 10px inset;
 }
@@ -132,8 +132,7 @@ p.dataHeaders{
   width: 100%;
   color: #FFF;
   height: 45px;
-  background-color:#5F255C;
-  background-image: url('../images/header_gradient.png');
+  background-color:#25295f;  
 }
 
 
@@ -146,7 +145,7 @@ p.groupHeadline {
 }
 
 .groupHeader a {
-  color: #FF66FF;
+  color: #66d4ff;
 }
 
 
